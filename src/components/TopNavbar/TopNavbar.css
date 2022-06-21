@@ -1,0 +1,29 @@
+.nav-top {
+  padding-top: 10px;
+  width: 100%;
+}
+
+select {
+  border: none;
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  text-decoration: none;
+  outline: none;
+}
+
+@media only screen and (max-width: 1024px) {
+  .menubar {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .menubar2 {
+    display: none;
+  }
+}
+
+.options {
+  color: rgb(27, 153, 195);
+}
