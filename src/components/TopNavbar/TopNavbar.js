@@ -19,7 +19,7 @@ function TopNavbar() {
           style={{
             height: "30px",
             width: "30px",
-            marginLeft: "20px",
+            marginLeft: "2vw",
             fill: "white",
           }}
           xmlns="http://www.w3.org/2000/svg"
@@ -31,7 +31,7 @@ function TopNavbar() {
       <div
         style={{
           marginTop: "2.5px",
-          marginRight: "20px",
+          marginRight: "2vw",
           display: "flex",
           alignItems: "center",
         }}
